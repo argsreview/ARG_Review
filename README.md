@@ -1,4 +1,13 @@
-# ARG_Review
+# 🌳: Supporting information  :dna:
+
+Supporting information ARG Review that includes:
+
+* Current list of methods/software that used ARGs to infer various evolutionary biology processes (last update Octobre the 6th, 2016). 
+* Datatases of past publications that used ARGs updated to March, 2026. 
+
+> XX
+
+## Method lists
 
 | Method name | Analyses | Reference | Link |
 | :-------------: | :-------------: | :-----------: | :---------: |
