@@ -10,7 +10,6 @@ Supporting information ARG Review that includes:
 ## Method lists
 
 | Method name | Analyses | Reference | Link |
-| :-------------: |
 |      QQ       |
 | :-------------: | :-------------: | :-----------: | :---------: |
 | ARG-RHE  | Heritability estimation and phenotype association studies | [Zhu et al., 2026](https://www.sciencedirect.com/science/article/pii/S2666979X25003283) | [https://github.com/PalamaraLab/arg-lmm](https://github.com/PalamaraLab/arg-lmm)
