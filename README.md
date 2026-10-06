@@ -7,19 +7,11 @@ Supporting information ARG Review that includes:
 
 > XX
 
-| Person | Q1 ||||
-|--------|--------|--------|--------|--------|
-|        | Jan    |    Feb |        |  March |
-| Eve | I will never do that again. | Honey never spoils. | Archaeologists have found honey pots in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. | Spring begins, days lengthen, and nature stirs. Basketball fever rises as winter fades to warmth. |
-| | | Koalas fingerprints are so similar to humans that they have occasionally been confused at crime scenes. | This makes koalas the only non-primates with unique fingerprints. | When will the winter arrive? |
-| Bob | Frosty beginnings and | Hearts and groundhogs, winters midpoint. | | Lion to lamb, spring hopeful arrival. |
-| | resolutions abound. | | | |
-
 ## Method lists
 
 | Method name | Analyses | Reference | Link |
 | :-------------: | :-------------: | :-----------: | :---------: |
-| Spanned Header ||||
+| Spanned Header |
 | ARG-RHE  | Heritability estimation and phenotype association studies | [Zhu et al., 2026](https://www.sciencedirect.com/science/article/pii/S2666979X25003283) | [https://github.com/PalamaraLab/arg-lmm](https://github.com/PalamaraLab/arg-lmm)
 | Spectre  | Phantom epistatis inference | [Ignatieva et al., 2026](https://academic.oup.com/genetics/article/232/1/iyaf184/8248594) | [https://github.com/a-ignatieva/spectre](https://github.com/a-ignatieva/spectre)
 | CLUES2  | Infer selection coefficients and infer historic allele frequencies | [Vaughn et al., 2024](https://academic.oup.com/mbe/article/41/8/msae156/7724092) | [https://github.com/avaughn271/CLUES2](https://github.com/avaughn271/CLUES2)
