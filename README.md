@@ -1,4 +1,4 @@
-# 🌳: Supporting information  :dna:
+# 🌳 Supporting information  :dna:
 
 Supporting information ARG Review that includes:
 
