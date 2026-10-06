@@ -7,6 +7,14 @@ Supporting information ARG Review that includes:
 
 > XX
 
+| Person | Q1 ||||
+|--------|--------|--------|--------|--------|
+|        | Jan    |    Feb |        |  March |
+| Eve | I will never do that again. | Honey never spoils. | Archaeologists have found honey pots in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. | Spring begins, days lengthen, and nature stirs. Basketball fever rises as winter fades to warmth. |
+| | | Koalas fingerprints are so similar to humans that they have occasionally been confused at crime scenes. | This makes koalas the only non-primates with unique fingerprints. | When will the winter arrive? |
+| Bob | Frosty beginnings and | Hearts and groundhogs, winters midpoint. | | Lion to lamb, spring hopeful arrival. |
+| | resolutions abound. | | | |
+
 ## Method lists
 
 | Method name | Analyses | Reference | Link |
