@@ -10,9 +10,7 @@ Supporting information ARG Review that includes:
 ## Method lists
 
 | Method name | Analyses | Reference | Link |
-| :-------------: | :-------------: | :-----------: | :---------: |
-| :-------------: |
-|      QQ       |
+|Spanned Header ||||
 | :-------------: | :-------------: | :-----------: | :---------: |
 | ARG-RHE  | Heritability estimation and phenotype association studies | [Zhu et al., 2026](https://www.sciencedirect.com/science/article/pii/S2666979X25003283) | [https://github.com/PalamaraLab/arg-lmm](https://github.com/PalamaraLab/arg-lmm)
 | Spectre  | Phantom epistatis inference | [Ignatieva et al., 2026](https://academic.oup.com/genetics/article/232/1/iyaf184/8248594) | [https://github.com/a-ignatieva/spectre](https://github.com/a-ignatieva/spectre)
