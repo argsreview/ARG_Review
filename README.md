@@ -11,7 +11,7 @@ Supporting information ARG Review that includes:
 
 | Method name | Analyses | Reference | Link |
 | :-------------: | :-------------: | :-----------: | :---------: |
-|||| Spanned Header ||||
+| Spanned Header |||
 | ARG-RHE  | Heritability estimation and phenotype association studies | [Zhu et al., 2026](https://www.sciencedirect.com/science/article/pii/S2666979X25003283) | [https://github.com/PalamaraLab/arg-lmm](https://github.com/PalamaraLab/arg-lmm)
 | Spectre  | Phantom epistatis inference | [Ignatieva et al., 2026](https://academic.oup.com/genetics/article/232/1/iyaf184/8248594) | [https://github.com/a-ignatieva/spectre](https://github.com/a-ignatieva/spectre)
 | CLUES2  | Infer selection coefficients and infer historic allele frequencies | [Vaughn et al., 2024](https://academic.oup.com/mbe/article/41/8/msae156/7724092) | [https://github.com/avaughn271/CLUES2](https://github.com/avaughn271/CLUES2)
