@@ -2,18 +2,22 @@
 
 Supporting information ARG Review that includes:
 
-* Current list of methods/software that used ARGs to infer various evolutionary biology processes (last update Octobre the 6th, 2016). 
-* Datatases of past publications that used ARGs updated to March, 2026. 
+* Method list: Current list of methods/software that used ARGs to infer various evolutionary biology processes (last update Octobre the 6th, 2016).
+* Application list: Datatases of past publications that used ARGs updated to March, 2026.
 
 > XX
 
-## Method lists
+## Method list
 
 | Method name | Analyses | Reference | Link |
 | :-------------: | :-------------: | :-----------: | :---------: |
 | **Quantitative genetic and association studies** |
+| eGRM  | Genealogical relatedness and population structure | [Fan et al., 2022](https://www.sciencedirect.com/science/article/pii/S0002929722001124?via%3Dihub) | [https://github.com/Ephraim-usc/egrm](https://github.com/Ephraim-usc/egrm)
+| **Quantitative genetic and association studies** |
 | ARG-RHE  | Heritability estimation and phenotype association studies | [Zhu et al., 2026](https://www.sciencedirect.com/science/article/pii/S2666979X25003283) | [https://github.com/PalamaraLab/arg-lmm](https://github.com/PalamaraLab/arg-lmm)
 | Spectre  | Phantom epistatis inference | [Ignatieva et al., 2026](https://academic.oup.com/genetics/article/232/1/iyaf184/8248594) | [https://github.com/a-ignatieva/spectre](https://github.com/a-ignatieva/spectre)
+| Tree-based QTL mapping / local eGRM  | Quantitative-trait locus mapping and phenotype association | [Link et al., 2023 ](https://www.sciencedirect.com/science/article/pii/S0002929723003956?via%3Dihub)| [https://github.com/vivilink/sycamore/](https://github.com/vivilink/sycamore/)
+| Edge–Coop polygenic score reconstruction  | Reconstruction of historical polygenic-score trajectories | [Edge & Coop, 2019](https://academic.oup.com/genetics/article/211/1/235/5931145) | [https://github.com/mdedge/rhps_coalescent](https://github.com/mdedge/rhps_coalescent)
 | **Selection** |
 | CLUES2  | Infer selection coefficients and infer historic allele frequencies | [Vaughn et al., 2024](https://academic.oup.com/mbe/article/41/8/msae156/7724092) | [https://github.com/avaughn271/CLUES2](https://github.com/avaughn271/CLUES2)
 | SIA  | Positive selection inference | [Hejase et al., 2021](https://academic.oup.com/mbe/article/39/1/msab332/6433161) | [https://github.com/CshlSiepelLab/arg-selection](https://github.com/CshlSiepelLab/arg-selection)
