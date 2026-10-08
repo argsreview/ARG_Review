@@ -2,7 +2,7 @@
 
 Supporting information ARG Review that includes:
 
-* Method list: Current list of methods/software that used ARGs to infer various evolutionary biology processes (last update Octobre the 6th, 2016).
+* Method list: Current list of methods/software that used ARGs to infer various evolutionary biology processes (last update October the 6th, 2026).
 * Application list: Datatases of past publications that used ARGs updated to March, 2026.
 
 > XX
